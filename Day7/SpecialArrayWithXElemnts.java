@@ -1,5 +1,5 @@
 package Day7;
-import java.util.Arrays;
+
 
 public class SpecialArrayWithXElemnts {
     public int specialArray(int[] nums) {
